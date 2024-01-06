@@ -8,3 +8,4 @@ In no particular order, this is a living document of projects I want to do in th
 - [ ] Manim rewritten in Rust
 - [ ] WPILib rewritten in Rust
 - [ ] Federated PaaS (properly decentralized cloud service provider) governed by coop of self hosters
+- [ ] Sociocratic project management software
