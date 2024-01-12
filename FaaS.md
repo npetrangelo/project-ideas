@@ -13,4 +13,4 @@ Everyone *wants* to like serverless these days, but it's costly on AWS. Not so o
 
 ### Architecture
 Long term slow storage: Encryption and redundant sharding
-Short term fast storage: Trusted local servers selected by the user that cache sensitive data and microservices; user's entrypoint to the FaaS system
+Short term fast storage: Trusted local servers selected by the user that cache sensitive data and microservices via WASM containers; user's entrypoint to the FaaS system
