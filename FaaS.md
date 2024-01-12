@@ -1,6 +1,7 @@
 # Fediverse as a Service
 The vision for Fediverse as a Service is a decentralized and distributed Platform as a Service, Fediverse style.
 The objective is to make expensive centralized corporate cloud providers like AWS obsolete.
+Everyone *wants* to like serverless these days, but it's costly on AWS. Not so on FaaS.
 
 ### Requirements
 * Resilient: No data should ever just dissapear unless requested. Distributed systems excel at this.
